@@ -1,0 +1,70 @@
+[
+  {
+    "id": "port-return",
+    "question": "What is the portfolio forecast return versus budget?",
+    "paraphrases": [
+      "What is the performance return forecast and budget?"
+    ],
+    "sql_id": "portfolio_return",
+    "params": {}
+  },
+  {
+    "id": "port-watch",
+    "question": "Which assets are behind on both YTD and the annual forecast?",
+    "paraphrases": [
+      "Which assets have negative net income variance on both views?"
+    ],
+    "sql_id": "watchlist",
+    "params": {}
+  },
+  {
+    "id": "port-miss",
+    "question": "What is the largest annual forecast versus budget gap?",
+    "paraphrases": [
+      "Which income statement line has the largest negative annual variance?"
+    ],
+    "sql_id": "largest_miss",
+    "params": {}
+  },
+  {
+    "id": "port-open",
+    "question": "What is December 2019 opening equity?",
+    "paraphrases": [
+      "December 2019 opening balance"
+    ],
+    "sql_id": "equity_total",
+    "params": {
+      "scenario": "December 2019"
+    }
+  },
+  {
+    "id": "port-close",
+    "question": "What is December 2019 total equity?",
+    "paraphrases": [
+      "Where does the December 2019 equity bridge end?"
+    ],
+    "sql_id": "equity_total",
+    "params": {
+      "scenario": "December 2019"
+    }
+  },
+  {
+    "id": "port-aum",
+    "question": "What is assets under management by scenario?",
+    "paraphrases": [
+      "Show AUM for YTD actual, annual forecast, and annual budget."
+    ],
+    "sql_id": "aum",
+    "params": {}
+  },
+  {
+    "id": "port-statement-total",
+    "question": "What is the income statement total?",
+    "paraphrases": [
+      "What is the portfolio YTD variance percent?",
+      "What is the portfolio annual variance percent?"
+    ],
+    "sql_id": "statement_total",
+    "params": {}
+  }
+]

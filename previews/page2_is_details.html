@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Page 2 — IS details</title>
+<style>
+:root {
+  --bg: #F2F2F2;
+  --card: #FFFFFF;
+  --ink: #252423;
+  --muted: #605E5C;
+  --line: #E1DFDD;
+  --navy: #0B3A5B;
+  --blue: #118DFF;
+  --teal: #00B7C3;
+  --gold: #CA8A04;
+  --green: #107C10;
+  --red: #A4262C;
+  --open: #5B5FC7;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: "Segoe UI", Calibri, Arial, sans-serif;
+  background: #201F1E;
+  color: var(--ink);
+}
+.canvas {
+  width: 1920px;
+  height: 1080px;
+  background: var(--bg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.topbar {
+  height: 48px;
+  background: var(--navy);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  gap: 28px;
+  flex-shrink: 0;
+}
+.brand { font-weight: 700; font-size: 15px; letter-spacing: 0.02em; }
+.tabs { display: flex; gap: 4px; }
+.tab {
+  padding: 6px 14px;
+  border-radius: 2px;
+  font-size: 12px;
+  color: #D2D0CE;
+}
+.tab.on { background: #fff; color: var(--navy); font-weight: 600; }
+.title {
+  margin-left: auto;
+  font-size: 13px;
+  color: #C8C6C4;
+}
+.body {
+  flex: 1;
+  padding: 14px 16px 16px;
+  display: grid;
+  gap: 12px;
+}
+.slicers { display: flex; gap: 10px; align-items: stretch; }
+.slicer, .card, .panel {
+  background: var(--card);
+  border: 1px solid var(--line);
+}
+.slicer { padding: 8px 12px; min-width: 170px; }
+.slicer h3, .panel h3, .card h3 {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chip {
+  font-size: 11px;
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  background: #FAF9F8;
+  color: var(--ink);
+}
+.chip.on { background: var(--navy); color: #fff; border-color: var(--navy); }
+.kpi-row { display: grid; grid-template-columns: 1fr 1fr 1fr 280px; gap: 12px; }
+.card { padding: 12px 16px; }
+.card .lbl { font-size: 12px; color: var(--muted); }
+.card .val { font-size: 32px; font-weight: 700; margin-top: 4px; }
+.card .sub { font-size: 12px; margin-top: 4px; color: var(--muted); }
+.neg { color: var(--red); }
+.pos { color: var(--green); }
+.main { display: grid; grid-template-columns: 280px 1fr; gap: 12px; min-height: 0; }
+.charts { display: grid; grid-template-columns: 1.1fr 1.1fr 1fr; gap: 12px; min-height: 0; }
+.panel { padding: 10px 12px; display: flex; flex-direction: column; min-height: 0; }
+.panel h3 { margin-bottom: 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 11px; }
+th, td { padding: 4px 8px; text-align: right; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; font-size: 10px; }
+th:first-child, td:first-child { text-align: left; }
+tr.total td { font-weight: 700; border-top: 2px solid var(--navy); }
+.legend { display: flex; gap: 12px; font-size: 11px; color: var(--muted); margin-top: 6px; }
+.sw { display: inline-block; width: 10px; height: 10px; margin-right: 4px; vertical-align: -1px; }
+.country { display: flex; align-items: center; gap: 8px; margin: 7px 0; font-size: 12px; }
+.bar-bg { flex: 1; height: 10px; background: #EDEBE9; }
+.bar-fill { height: 10px; background: var(--navy); }
+.dt-banner {
+  background: #FFF4CE;
+  border: 1px solid #FCE100;
+  padding: 8px 12px;
+  font-size: 12px;
+  display: flex;
+  gap: 24px;
+}
+.wf-note { font-size: 11px; color: var(--muted); margin-top: 8px; }
+
+.body { grid-template-rows: auto auto 1fr; }
+</style></head>
+<body><div class="canvas">
+  <div class="topbar">
+    <div class="brand">OMERS Real Estate</div>
+    <div class="tabs">
+      <div class="tab">Portfolio performance</div>
+      <div class="tab on">IS details</div>
+      <div class="tab">Equity movements</div>
+    </div>
+    <div class="title">Drillthrough · Asset B</div>
+  </div>
+  <div class="body">
+    <div class="dt-banner">
+      <div><strong>Asset B</strong></div>
+      <div>Region: North America</div>
+      <div>Country: Canada</div>
+      <div>Sector: Retail</div>
+      <div>Filters kept from portfolio page</div>
+    </div>
+    <div class="kpi-row">
+      <div class="card"><div class="lbl">Performance Return · Forecast</div><div class="val">7.2%</div><div class="sub">NI $28.3M ÷ Equity $391.9M</div></div>
+      <div class="card"><div class="lbl">Performance Return · Budget</div><div class="val">6.5%</div><div class="sub">NI $23.0M ÷ Equity $354.1M</div></div>
+      <div class="card"><div class="lbl">Variance</div><div class="val pos">+0.7 pp</div><div class="sub">Ahead of Operating Plan</div></div>
+      <div class="card"><div class="lbl">Net income · Forecast</div><div class="val pos">$28.3M</div><div class="sub">Budget $23.0M · ▲ $5.3M</div></div>
+    </div>
+    <div class="panel" style="min-height:0">
+      <h3>Income statement details · all KPIs · $ thousands</h3>
+      <table>
+        <thead><tr><th>Metric</th><th>YTD Actual</th><th>YTD Budget</th><th>Var</th><th>Annual Forecast</th><th>Annual Budget</th><th>Var</th></tr></thead>
+        <tbody>
+          <tr><td>NOI</td><td>22,136</td><td>17,540</td><td class="pos">▲ 4,595</td><td>39,792</td><td>34,753</td><td class="pos">▲ 5,039</td></tr>
+          <tr><td>Interest expense</td><td>(6,255)</td><td>(6,305)</td><td class="pos">▲ 50</td><td>(12,839)</td><td>(13,183)</td><td class="pos">▲ 344</td></tr>
+          <tr><td>Net G&amp;A</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>FF&amp;E amort</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>Recoverable capital amort</td><td>(661)</td><td>(675)</td><td class="pos">▲ 15</td><td>1,341</td><td>1,436</td><td class="neg">▼ 95</td></tr>
+          <tr><td>Current income tax</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>Current capital tax</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>MTM real estate</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>MTM debt</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>Other gains / (losses)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr class="total"><td>Net income</td><td>15,220</td><td>10,560</td><td class="pos">▲ 4,660</td><td>28,294</td><td>23,006</td><td class="pos">▲ 5,288</td></tr>
+        </tbody>
+      </table>
+      <p class="wf-note">Drillthrough from Portfolio performance. Right-click any asset → Drill through → IS details.</p>
+    </div>
+  </div>
+</div></body></html>

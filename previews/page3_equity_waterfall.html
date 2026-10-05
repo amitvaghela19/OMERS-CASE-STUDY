@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Page 3 — Equity movements</title>
+<style>
+:root {
+  --bg: #F2F2F2;
+  --card: #FFFFFF;
+  --ink: #252423;
+  --muted: #605E5C;
+  --line: #E1DFDD;
+  --navy: #0B3A5B;
+  --blue: #118DFF;
+  --teal: #00B7C3;
+  --gold: #CA8A04;
+  --green: #107C10;
+  --red: #A4262C;
+  --open: #5B5FC7;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: "Segoe UI", Calibri, Arial, sans-serif;
+  background: #201F1E;
+  color: var(--ink);
+}
+.canvas {
+  width: 1920px;
+  height: 1080px;
+  background: var(--bg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.topbar {
+  height: 48px;
+  background: var(--navy);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  gap: 28px;
+  flex-shrink: 0;
+}
+.brand { font-weight: 700; font-size: 15px; letter-spacing: 0.02em; }
+.tabs { display: flex; gap: 4px; }
+.tab {
+  padding: 6px 14px;
+  border-radius: 2px;
+  font-size: 12px;
+  color: #D2D0CE;
+}
+.tab.on { background: #fff; color: var(--navy); font-weight: 600; }
+.title {
+  margin-left: auto;
+  font-size: 13px;
+  color: #C8C6C4;
+}
+.body {
+  flex: 1;
+  padding: 14px 16px 16px;
+  display: grid;
+  gap: 12px;
+}
+.slicers { display: flex; gap: 10px; align-items: stretch; }
+.slicer, .card, .panel {
+  background: var(--card);
+  border: 1px solid var(--line);
+}
+.slicer { padding: 8px 12px; min-width: 170px; }
+.slicer h3, .panel h3, .card h3 {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chip {
+  font-size: 11px;
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  background: #FAF9F8;
+  color: var(--ink);
+}
+.chip.on { background: var(--navy); color: #fff; border-color: var(--navy); }
+.kpi-row { display: grid; grid-template-columns: 1fr 1fr 1fr 280px; gap: 12px; }
+.card { padding: 12px 16px; }
+.card .lbl { font-size: 12px; color: var(--muted); }
+.card .val { font-size: 32px; font-weight: 700; margin-top: 4px; }
+.card .sub { font-size: 12px; margin-top: 4px; color: var(--muted); }
+.neg { color: var(--red); }
+.pos { color: var(--green); }
+.main { display: grid; grid-template-columns: 280px 1fr; gap: 12px; min-height: 0; }
+.charts { display: grid; grid-template-columns: 1.1fr 1.1fr 1fr; gap: 12px; min-height: 0; }
+.panel { padding: 10px 12px; display: flex; flex-direction: column; min-height: 0; }
+.panel h3 { margin-bottom: 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 11px; }
+th, td { padding: 4px 8px; text-align: right; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; font-size: 10px; }
+th:first-child, td:first-child { text-align: left; }
+tr.total td { font-weight: 700; border-top: 2px solid var(--navy); }
+.legend { display: flex; gap: 12px; font-size: 11px; color: var(--muted); margin-top: 6px; }
+.sw { display: inline-block; width: 10px; height: 10px; margin-right: 4px; vertical-align: -1px; }
+.country { display: flex; align-items: center; gap: 8px; margin: 7px 0; font-size: 12px; }
+.bar-bg { flex: 1; height: 10px; background: #EDEBE9; }
+.bar-fill { height: 10px; background: var(--navy); }
+.dt-banner {
+  background: #FFF4CE;
+  border: 1px solid #FCE100;
+  padding: 8px 12px;
+  font-size: 12px;
+  display: flex;
+  gap: 24px;
+}
+.wf-note { font-size: 11px; color: var(--muted); margin-top: 8px; }
+
+.body { grid-template-rows: auto 1fr; }
+.wf { flex: 1; }
+</style></head>
+<body><div class="canvas">
+  <div class="topbar">
+    <div class="brand">OMERS Real Estate</div>
+    <div class="tabs">
+      <div class="tab">Portfolio performance</div>
+      <div class="tab">IS details</div>
+      <div class="tab on">Equity movements</div>
+    </div>
+    <div class="title">All regions · Dec 31, 2019</div>
+  </div>
+  <div class="body">
+    <div class="slicers">
+      <div class="slicer"><h3>Region</h3><div class="chips"><span class="chip on">All</span><span class="chip">North America</span><span class="chip">Europe</span><span class="chip">Asia Pac</span></div></div>
+      <div class="slicer"><h3>Scenario</h3><div class="chips"><span class="chip">Jan 2019</span><span class="chip">Jun 2019</span><span class="chip on">Dec 2019</span></div></div>
+    </div>
+    <div class="panel wf">
+      <h3>Equity bridge · Jan 1 to Dec 31, 2019 · $ billions</h3>
+      <svg viewBox="0 0 1840 860" width="100%" height="820">
+        <line x1="70" y1="40" x2="70" y2="720" stroke="#E1DFDD"/>
+        <line x1="70" y1="720" x2="1800" y2="720" stroke="#C8C6C4"/>
+        <text x="64" y="44" text-anchor="end" font-size="12" fill="#605E5C">16</text>
+        <text x="64" y="268" text-anchor="end" font-size="12" fill="#605E5C">12</text>
+        <text x="64" y="492" text-anchor="end" font-size="12" fill="#605E5C">8</text>
+        <text x="64" y="716" text-anchor="end" font-size="12" fill="#605E5C">4</text>
+        <line x1="70" y1="264" x2="1800" y2="264" stroke="#EDEBE9"/>
+        <line x1="70" y1="488" x2="1800" y2="488" stroke="#EDEBE9"/>
+        <!-- scale: y = 720 - (val/16.5)*680 ; 13.0 -> 184.2 from bottom -> y=535.8 wait
+             16.5B = 680px. y(v) = 720 - v/16.5*680
+             Opening 13: 720-536.97=183.03  height=536.97
+        -->
+        <rect x="90" y="184" width="88" height="536" fill="#5B5FC7"/>
+        <text x="134" y="174" text-anchor="middle" font-size="12" fill="#252423">13.00</text>
+        <text x="134" y="748" text-anchor="middle" font-size="11">Opening</text>
+        <!-- Acq +1.35 from 13 to 14.35; y14.35=128.5 y13=184 h=55.5 -->
+        <line x1="178" y1="184" x2="210" y2="184" stroke="#8A8886"/>
+        <rect x="210" y="128" width="88" height="56" fill="#107C10"/>
+        <text x="254" y="118" text-anchor="middle" font-size="12">+1.35</text>
+        <text x="254" y="748" text-anchor="middle" font-size="11">Acquisitions</text>
+        <!-- Disp -1.0125 from 14.35 to 13.3375; y14.35=128 y13.34=170 h=42 -->
+        <line x1="298" y1="128" x2="330" y2="128" stroke="#8A8886"/>
+        <rect x="330" y="128" width="88" height="42" fill="#A4262C"/>
+        <text x="374" y="118" text-anchor="middle" font-size="12">−1.01</text>
+        <text x="374" y="748" text-anchor="middle" font-size="11">Dispositions</text>
+        <!-- Dev +0.3375 13.3375->13.675 y13.67=156 y13.34=170 -->
+        <line x1="418" y1="170" x2="450" y2="170" stroke="#8A8886"/>
+        <rect x="450" y="156" width="88" height="14" fill="#107C10"/>
+        <text x="494" y="146" text-anchor="middle" font-size="12">+0.34</text>
+        <text x="494" y="748" text-anchor="middle" font-size="11">Development</text>
+        <!-- Capex +1.6875 13.675->15.3625 y15.36=87 y13.67=156 h=69 -->
+        <line x1="538" y1="156" x2="570" y2="156" stroke="#8A8886"/>
+        <rect x="570" y="87" width="88" height="69" fill="#107C10"/>
+        <text x="614" y="77" text-anchor="middle" font-size="12">+1.69</text>
+        <text x="614" y="748" text-anchor="middle" font-size="11">Capex/Leasing</text>
+        <!-- Future taxes +0.003 tiny -->
+        <line x1="658" y1="87" x2="690" y2="87" stroke="#8A8886"/>
+        <rect x="690" y="86" width="88" height="3" fill="#107C10"/>
+        <text x="734" y="76" text-anchor="middle" font-size="11">+0.00</text>
+        <text x="734" y="748" text-anchor="middle" font-size="11">Future taxes</text>
+        <line x1="778" y1="86" x2="810" y2="86" stroke="#8A8886"/>
+        <rect x="810" y="85" width="88" height="3" fill="#107C10"/>
+        <text x="854" y="75" text-anchor="middle" font-size="11">+0.00</text>
+        <text x="854" y="748" text-anchor="middle" font-size="11">Hedges</text>
+        <!-- Asset MTM +0.03375 -->
+        <line x1="898" y1="85" x2="930" y2="85" stroke="#8A8886"/>
+        <rect x="930" y="83" width="88" height="4" fill="#107C10"/>
+        <text x="974" y="73" text-anchor="middle" font-size="12">+0.03</text>
+        <text x="974" y="748" text-anchor="middle" font-size="11">Asset MTM</text>
+        <!-- Debt MTM -0.0675 -->
+        <line x1="1018" y1="83" x2="1050" y2="83" stroke="#8A8886"/>
+        <rect x="1050" y="83" width="88" height="6" fill="#A4262C"/>
+        <text x="1094" y="73" text-anchor="middle" font-size="12">−0.07</text>
+        <text x="1094" y="748" text-anchor="middle" font-size="11">Debt MTM</text>
+        <!-- Mortgages +0.017 -->
+        <line x1="1138" y1="89" x2="1170" y2="89" stroke="#8A8886"/>
+        <rect x="1170" y="87" width="88" height="3" fill="#107C10"/>
+        <text x="1214" y="77" text-anchor="middle" font-size="11">+0.02</text>
+        <text x="1214" y="748" text-anchor="middle" font-size="11">Mortgages</text>
+        <!-- WC +0.017 -->
+        <line x1="1258" y1="86" x2="1290" y2="86" stroke="#8A8886"/>
+        <rect x="1290" y="84" width="88" height="3" fill="#107C10"/>
+        <text x="1334" y="74" text-anchor="middle" font-size="11">+0.02</text>
+        <text x="1334" y="748" text-anchor="middle" font-size="11">Work. cap.</text>
+        <!-- Other CC +0.169 15.369->15.538 y15.538=80 y15.369=87 -->
+        <line x1="1378" y1="84" x2="1410" y2="84" stroke="#8A8886"/>
+        <rect x="1410" y="77" width="88" height="8" fill="#107C10"/>
+        <text x="1454" y="67" text-anchor="middle" font-size="12">+0.17</text>
+        <text x="1454" y="748" text-anchor="middle" font-size="11">Other contrib.</text>
+        <!-- Closing 15.538 y=80 height=640 -->
+        <line x1="1498" y1="77" x2="1530" y2="77" stroke="#8A8886"/>
+        <rect x="1530" y="80" width="96" height="640" fill="#0B3A5B"/>
+        <text x="1578" y="70" text-anchor="middle" font-size="13" font-weight="700">15.54</text>
+        <text x="1578" y="748" text-anchor="middle" font-size="11">Closing</text>
+        <text x="90" y="800" font-size="13" fill="#605E5C">Material moves: Capex/Leasing +$1.69B, Acquisitions +$1.35B, Dispositions −$1.01B. MTM and tax are immaterial at total-portfolio scale.</text>
+      </svg>
+    </div>
+  </div>
+</div></body></html>

@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "var-0001",
+    "question": "What is the YTD NOI variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0002",
+    "question": "Is Asset A ahead or behind budget on YTD NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0003",
+    "question": "What is the YTD Interest variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0004",
+    "question": "Is Asset A ahead or behind budget on YTD Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0005",
+    "question": "What is the YTD Net G&A variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0006",
+    "question": "Is Asset A ahead or behind budget on YTD Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0007",
+    "question": "What is the YTD FF&E Amort variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0008",
+    "question": "Is Asset A ahead or behind budget on YTD FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0009",
+    "question": "What is the YTD Recoverable Capital Amort variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0010",
+    "question": "Is Asset A ahead or behind budget on YTD Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0011",
+    "question": "What is the YTD Current Income Tax variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0012",
+    "question": "Is Asset A ahead or behind budget on YTD Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0013",
+    "question": "What is the YTD Current Capital Tax variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0014",
+    "question": "Is Asset A ahead or behind budget on YTD Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0015",
+    "question": "What is the YTD MTM Assets variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0016",
+    "question": "Is Asset A ahead or behind budget on YTD MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0017",
+    "question": "What is the YTD MTM Debt variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0018",
+    "question": "Is Asset A ahead or behind budget on YTD MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0019",
+    "question": "What is the YTD Other Gain / Loss variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0020",
+    "question": "Is Asset A ahead or behind budget on YTD Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0021",
+    "question": "What is the YTD Net Income variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0022",
+    "question": "Is Asset A ahead or behind budget on YTD Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0023",
+    "question": "What is the annual forecast NOI variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0024",
+    "question": "Is Asset A ahead or behind budget on annual forecast NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0025",
+    "question": "What is the annual forecast Interest variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0026",
+    "question": "Is Asset A ahead or behind budget on annual forecast Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0027",
+    "question": "What is the annual forecast Net G&A variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0028",
+    "question": "Is Asset A ahead or behind budget on annual forecast Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0029",
+    "question": "What is the annual forecast FF&E Amort variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0030",
+    "question": "Is Asset A ahead or behind budget on annual forecast FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0031",
+    "question": "What is the annual forecast Recoverable Capital Amort variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0032",
+    "question": "Is Asset A ahead or behind budget on annual forecast Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0033",
+    "question": "What is the annual forecast Current Income Tax variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0034",
+    "question": "Is Asset A ahead or behind budget on annual forecast Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0035",
+    "question": "What is the annual forecast Current Capital Tax variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0036",
+    "question": "Is Asset A ahead or behind budget on annual forecast Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0037",
+    "question": "What is the annual forecast MTM Assets variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0038",
+    "question": "Is Asset A ahead or behind budget on annual forecast MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0039",
+    "question": "What is the annual forecast MTM Debt variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0040",
+    "question": "Is Asset A ahead or behind budget on annual forecast MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0041",
+    "question": "What is the annual forecast Other Gain / Loss variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0042",
+    "question": "Is Asset A ahead or behind budget on annual forecast Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0043",
+    "question": "What is the annual forecast Net Income variance versus budget for Asset A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0044",
+    "question": "Is Asset A ahead or behind budget on annual forecast Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset A",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0045",
+    "question": "What is the YTD NOI variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0046",
+    "question": "Is Asset B ahead or behind budget on YTD NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0047",
+    "question": "What is the YTD Interest variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0048",
+    "question": "Is Asset B ahead or behind budget on YTD Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0049",
+    "question": "What is the YTD Net G&A variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0050",
+    "question": "Is Asset B ahead or behind budget on YTD Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0051",
+    "question": "What is the YTD FF&E Amort variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0052",
+    "question": "Is Asset B ahead or behind budget on YTD FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0053",
+    "question": "What is the YTD Recoverable Capital Amort variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0054",
+    "question": "Is Asset B ahead or behind budget on YTD Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0055",
+    "question": "What is the YTD Current Income Tax variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0056",
+    "question": "Is Asset B ahead or behind budget on YTD Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0057",
+    "question": "What is the YTD Current Capital Tax variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0058",
+    "question": "Is Asset B ahead or behind budget on YTD Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0059",
+    "question": "What is the YTD MTM Assets variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0060",
+    "question": "Is Asset B ahead or behind budget on YTD MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0061",
+    "question": "What is the YTD MTM Debt variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0062",
+    "question": "Is Asset B ahead or behind budget on YTD MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0063",
+    "question": "What is the YTD Other Gain / Loss variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0064",
+    "question": "Is Asset B ahead or behind budget on YTD Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0065",
+    "question": "What is the YTD Net Income variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0066",
+    "question": "Is Asset B ahead or behind budget on YTD Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0067",
+    "question": "What is the annual forecast NOI variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0068",
+    "question": "Is Asset B ahead or behind budget on annual forecast NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0069",
+    "question": "What is the annual forecast Interest variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0070",
+    "question": "Is Asset B ahead or behind budget on annual forecast Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0071",
+    "question": "What is the annual forecast Net G&A variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0072",
+    "question": "Is Asset B ahead or behind budget on annual forecast Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0073",
+    "question": "What is the annual forecast FF&E Amort variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0074",
+    "question": "Is Asset B ahead or behind budget on annual forecast FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0075",
+    "question": "What is the annual forecast Recoverable Capital Amort variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0076",
+    "question": "Is Asset B ahead or behind budget on annual forecast Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0077",
+    "question": "What is the annual forecast Current Income Tax variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0078",
+    "question": "Is Asset B ahead or behind budget on annual forecast Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0079",
+    "question": "What is the annual forecast Current Capital Tax variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0080",
+    "question": "Is Asset B ahead or behind budget on annual forecast Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0081",
+    "question": "What is the annual forecast MTM Assets variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0082",
+    "question": "Is Asset B ahead or behind budget on annual forecast MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0083",
+    "question": "What is the annual forecast MTM Debt variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0084",
+    "question": "Is Asset B ahead or behind budget on annual forecast MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0085",
+    "question": "What is the annual forecast Other Gain / Loss variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0086",
+    "question": "Is Asset B ahead or behind budget on annual forecast Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0087",
+    "question": "What is the annual forecast Net Income variance versus budget for Asset B?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0088",
+    "question": "Is Asset B ahead or behind budget on annual forecast Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset B",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0089",
+    "question": "What is the YTD NOI variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0090",
+    "question": "Is Asset C ahead or behind budget on YTD NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0091",
+    "question": "What is the YTD Interest variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0092",
+    "question": "Is Asset C ahead or behind budget on YTD Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0093",
+    "question": "What is the YTD Net G&A variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0094",
+    "question": "Is Asset C ahead or behind budget on YTD Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0095",
+    "question": "What is the YTD FF&E Amort variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0096",
+    "question": "Is Asset C ahead or behind budget on YTD FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0097",
+    "question": "What is the YTD Recoverable Capital Amort variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0098",
+    "question": "Is Asset C ahead or behind budget on YTD Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0099",
+    "question": "What is the YTD Current Income Tax variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0100",
+    "question": "Is Asset C ahead or behind budget on YTD Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0101",
+    "question": "What is the YTD Current Capital Tax variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0102",
+    "question": "Is Asset C ahead or behind budget on YTD Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0103",
+    "question": "What is the YTD MTM Assets variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0104",
+    "question": "Is Asset C ahead or behind budget on YTD MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0105",
+    "question": "What is the YTD MTM Debt variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0106",
+    "question": "Is Asset C ahead or behind budget on YTD MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0107",
+    "question": "What is the YTD Other Gain / Loss variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0108",
+    "question": "Is Asset C ahead or behind budget on YTD Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0109",
+    "question": "What is the YTD Net Income variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0110",
+    "question": "Is Asset C ahead or behind budget on YTD Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0111",
+    "question": "What is the annual forecast NOI variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0112",
+    "question": "Is Asset C ahead or behind budget on annual forecast NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0113",
+    "question": "What is the annual forecast Interest variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0114",
+    "question": "Is Asset C ahead or behind budget on annual forecast Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0115",
+    "question": "What is the annual forecast Net G&A variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0116",
+    "question": "Is Asset C ahead or behind budget on annual forecast Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0117",
+    "question": "What is the annual forecast FF&E Amort variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0118",
+    "question": "Is Asset C ahead or behind budget on annual forecast FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0119",
+    "question": "What is the annual forecast Recoverable Capital Amort variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0120",
+    "question": "Is Asset C ahead or behind budget on annual forecast Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0121",
+    "question": "What is the annual forecast Current Income Tax variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0122",
+    "question": "Is Asset C ahead or behind budget on annual forecast Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0123",
+    "question": "What is the annual forecast Current Capital Tax variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0124",
+    "question": "Is Asset C ahead or behind budget on annual forecast Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0125",
+    "question": "What is the annual forecast MTM Assets variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0126",
+    "question": "Is Asset C ahead or behind budget on annual forecast MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0127",
+    "question": "What is the annual forecast MTM Debt variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0128",
+    "question": "Is Asset C ahead or behind budget on annual forecast MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0129",
+    "question": "What is the annual forecast Other Gain / Loss variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0130",
+    "question": "Is Asset C ahead or behind budget on annual forecast Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0131",
+    "question": "What is the annual forecast Net Income variance versus budget for Asset C?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0132",
+    "question": "Is Asset C ahead or behind budget on annual forecast Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset C",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0133",
+    "question": "What is the YTD NOI variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0134",
+    "question": "Is Asset D ahead or behind budget on YTD NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0135",
+    "question": "What is the YTD Interest variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0136",
+    "question": "Is Asset D ahead or behind budget on YTD Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0137",
+    "question": "What is the YTD Net G&A variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0138",
+    "question": "Is Asset D ahead or behind budget on YTD Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0139",
+    "question": "What is the YTD FF&E Amort variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0140",
+    "question": "Is Asset D ahead or behind budget on YTD FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0141",
+    "question": "What is the YTD Recoverable Capital Amort variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0142",
+    "question": "Is Asset D ahead or behind budget on YTD Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0143",
+    "question": "What is the YTD Current Income Tax variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0144",
+    "question": "Is Asset D ahead or behind budget on YTD Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0145",
+    "question": "What is the YTD Current Capital Tax variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0146",
+    "question": "Is Asset D ahead or behind budget on YTD Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0147",
+    "question": "What is the YTD MTM Assets variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0148",
+    "question": "Is Asset D ahead or behind budget on YTD MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0149",
+    "question": "What is the YTD MTM Debt variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0150",
+    "question": "Is Asset D ahead or behind budget on YTD MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0151",
+    "question": "What is the YTD Other Gain / Loss variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0152",
+    "question": "Is Asset D ahead or behind budget on YTD Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0153",
+    "question": "What is the YTD Net Income variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0154",
+    "question": "Is Asset D ahead or behind budget on YTD Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0155",
+    "question": "What is the annual forecast NOI variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0156",
+    "question": "Is Asset D ahead or behind budget on annual forecast NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0157",
+    "question": "What is the annual forecast Interest variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0158",
+    "question": "Is Asset D ahead or behind budget on annual forecast Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0159",
+    "question": "What is the annual forecast Net G&A variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0160",
+    "question": "Is Asset D ahead or behind budget on annual forecast Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0161",
+    "question": "What is the annual forecast FF&E Amort variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0162",
+    "question": "Is Asset D ahead or behind budget on annual forecast FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0163",
+    "question": "What is the annual forecast Recoverable Capital Amort variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0164",
+    "question": "Is Asset D ahead or behind budget on annual forecast Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0165",
+    "question": "What is the annual forecast Current Income Tax variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0166",
+    "question": "Is Asset D ahead or behind budget on annual forecast Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0167",
+    "question": "What is the annual forecast Current Capital Tax variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0168",
+    "question": "Is Asset D ahead or behind budget on annual forecast Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0169",
+    "question": "What is the annual forecast MTM Assets variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0170",
+    "question": "Is Asset D ahead or behind budget on annual forecast MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0171",
+    "question": "What is the annual forecast MTM Debt variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0172",
+    "question": "Is Asset D ahead or behind budget on annual forecast MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0173",
+    "question": "What is the annual forecast Other Gain / Loss variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0174",
+    "question": "Is Asset D ahead or behind budget on annual forecast Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0175",
+    "question": "What is the annual forecast Net Income variance versus budget for Asset D?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0176",
+    "question": "Is Asset D ahead or behind budget on annual forecast Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset D",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0177",
+    "question": "What is the YTD NOI variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0178",
+    "question": "Is Asset E ahead or behind budget on YTD NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0179",
+    "question": "What is the YTD Interest variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0180",
+    "question": "Is Asset E ahead or behind budget on YTD Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0181",
+    "question": "What is the YTD Net G&A variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0182",
+    "question": "Is Asset E ahead or behind budget on YTD Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0183",
+    "question": "What is the YTD FF&E Amort variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0184",
+    "question": "Is Asset E ahead or behind budget on YTD FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0185",
+    "question": "What is the YTD Recoverable Capital Amort variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0186",
+    "question": "Is Asset E ahead or behind budget on YTD Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0187",
+    "question": "What is the YTD Current Income Tax variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0188",
+    "question": "Is Asset E ahead or behind budget on YTD Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0189",
+    "question": "What is the YTD Current Capital Tax variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0190",
+    "question": "Is Asset E ahead or behind budget on YTD Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0191",
+    "question": "What is the YTD MTM Assets variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0192",
+    "question": "Is Asset E ahead or behind budget on YTD MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0193",
+    "question": "What is the YTD MTM Debt variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0194",
+    "question": "Is Asset E ahead or behind budget on YTD MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0195",
+    "question": "What is the YTD Other Gain / Loss variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0196",
+    "question": "Is Asset E ahead or behind budget on YTD Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0197",
+    "question": "What is the YTD Net Income variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0198",
+    "question": "Is Asset E ahead or behind budget on YTD Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0199",
+    "question": "What is the annual forecast NOI variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0200",
+    "question": "Is Asset E ahead or behind budget on annual forecast NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0201",
+    "question": "What is the annual forecast Interest variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0202",
+    "question": "Is Asset E ahead or behind budget on annual forecast Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0203",
+    "question": "What is the annual forecast Net G&A variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0204",
+    "question": "Is Asset E ahead or behind budget on annual forecast Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0205",
+    "question": "What is the annual forecast FF&E Amort variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0206",
+    "question": "Is Asset E ahead or behind budget on annual forecast FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0207",
+    "question": "What is the annual forecast Recoverable Capital Amort variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0208",
+    "question": "Is Asset E ahead or behind budget on annual forecast Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0209",
+    "question": "What is the annual forecast Current Income Tax variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0210",
+    "question": "Is Asset E ahead or behind budget on annual forecast Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0211",
+    "question": "What is the annual forecast Current Capital Tax variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0212",
+    "question": "Is Asset E ahead or behind budget on annual forecast Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0213",
+    "question": "What is the annual forecast MTM Assets variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0214",
+    "question": "Is Asset E ahead or behind budget on annual forecast MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0215",
+    "question": "What is the annual forecast MTM Debt variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0216",
+    "question": "Is Asset E ahead or behind budget on annual forecast MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0217",
+    "question": "What is the annual forecast Other Gain / Loss variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0218",
+    "question": "Is Asset E ahead or behind budget on annual forecast Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0219",
+    "question": "What is the annual forecast Net Income variance versus budget for Asset E?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0220",
+    "question": "Is Asset E ahead or behind budget on annual forecast Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset E",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0221",
+    "question": "What is the YTD NOI variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0222",
+    "question": "Is Asset F ahead or behind budget on YTD NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "NOI",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0223",
+    "question": "What is the YTD Interest variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0224",
+    "question": "Is Asset F ahead or behind budget on YTD Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Interest",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0225",
+    "question": "What is the YTD Net G&A variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0226",
+    "question": "Is Asset F ahead or behind budget on YTD Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net G&A",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0227",
+    "question": "What is the YTD FF&E Amort variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0228",
+    "question": "Is Asset F ahead or behind budget on YTD FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "FF&E Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0229",
+    "question": "What is the YTD Recoverable Capital Amort variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0230",
+    "question": "Is Asset F ahead or behind budget on YTD Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0231",
+    "question": "What is the YTD Current Income Tax variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0232",
+    "question": "Is Asset F ahead or behind budget on YTD Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Income Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0233",
+    "question": "What is the YTD Current Capital Tax variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0234",
+    "question": "Is Asset F ahead or behind budget on YTD Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Capital Tax",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0235",
+    "question": "What is the YTD MTM Assets variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0236",
+    "question": "Is Asset F ahead or behind budget on YTD MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Assets",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0237",
+    "question": "What is the YTD MTM Debt variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0238",
+    "question": "Is Asset F ahead or behind budget on YTD MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Debt",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0239",
+    "question": "What is the YTD Other Gain / Loss variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0240",
+    "question": "Is Asset F ahead or behind budget on YTD Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Other Gain / Loss",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0241",
+    "question": "What is the YTD Net Income variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0242",
+    "question": "Is Asset F ahead or behind budget on YTD Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net Income",
+      "time_view": "YTD",
+      "scenario": "Actual"
+    }
+  },
+  {
+    "id": "var-0243",
+    "question": "What is the annual forecast NOI variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0244",
+    "question": "Is Asset F ahead or behind budget on annual forecast NOI?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "NOI",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0245",
+    "question": "What is the annual forecast Interest variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0246",
+    "question": "Is Asset F ahead or behind budget on annual forecast Interest?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Interest",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0247",
+    "question": "What is the annual forecast Net G&A variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0248",
+    "question": "Is Asset F ahead or behind budget on annual forecast Net G&A?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net G&A",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0249",
+    "question": "What is the annual forecast FF&E Amort variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0250",
+    "question": "Is Asset F ahead or behind budget on annual forecast FF&E Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "FF&E Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0251",
+    "question": "What is the annual forecast Recoverable Capital Amort variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0252",
+    "question": "Is Asset F ahead or behind budget on annual forecast Recoverable Capital Amort?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Recoverable Capital Amort",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0253",
+    "question": "What is the annual forecast Current Income Tax variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0254",
+    "question": "Is Asset F ahead or behind budget on annual forecast Current Income Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Income Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0255",
+    "question": "What is the annual forecast Current Capital Tax variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0256",
+    "question": "Is Asset F ahead or behind budget on annual forecast Current Capital Tax?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Current Capital Tax",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0257",
+    "question": "What is the annual forecast MTM Assets variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0258",
+    "question": "Is Asset F ahead or behind budget on annual forecast MTM Assets?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Assets",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0259",
+    "question": "What is the annual forecast MTM Debt variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0260",
+    "question": "Is Asset F ahead or behind budget on annual forecast MTM Debt?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "MTM Debt",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0261",
+    "question": "What is the annual forecast Other Gain / Loss variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0262",
+    "question": "Is Asset F ahead or behind budget on annual forecast Other Gain / Loss?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Other Gain / Loss",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0263",
+    "question": "What is the annual forecast Net Income variance versus budget for Asset F?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  },
+  {
+    "id": "var-0264",
+    "question": "Is Asset F ahead or behind budget on annual forecast Net Income?",
+    "paraphrases": [],
+    "sql_id": "kpi_variance",
+    "params": {
+      "asset_id": "Asset F",
+      "metric": "Net Income",
+      "time_view": "Annual",
+      "scenario": "Forecast"
+    }
+  }
+]

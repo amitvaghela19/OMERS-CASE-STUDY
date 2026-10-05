@@ -1,0 +1,126 @@
+// Create every measure on the Hierarchy table.
+// Do not autodetect relationships. See MODEL.md.
+// Expenses are already signed negative, so Actual − Budget > 0 is favourable.
+// Do not invert variance icons.
+
+// ----- Balance sheet -----
+
+Amount =
+SUM ( 'BS by Region'[Amount] )
+
+AUM =
+CALCULATE (
+    [Amount],
+    'BS by Region'[Category] IN { "Equity", "Debt", "3rd Party" }
+)
+
+GAV =
+CALCULATE (
+    [Amount],
+    'BS by Region'[Category] = "Real Estate"
+)
+
+Equity =
+CALCULATE (
+    [Amount],
+    'BS by Region'[Category] = "Equity"
+)
+
+Equity Forecast =
+CALCULATE (
+    [Equity],
+    'BS by Region'[Scenario] = "Annual Forecast"
+)
+
+Equity OP =
+CALCULATE (
+    [Equity],
+    'BS by Region'[Scenario] = "Annual Budget"
+)
+
+// ----- Income statement (respects Metric on rows) -----
+
+KPI Amount =
+SUM ( 'KPI''s'[Amount] )
+
+YTD Actual =
+CALCULATE (
+    [KPI Amount],
+    'KPI''s'[TimeView] = "YTD",
+    'KPI''s'[Scenario] = "Actual"
+)
+
+YTD Budget =
+CALCULATE (
+    [KPI Amount],
+    'KPI''s'[TimeView] = "YTD",
+    'KPI''s'[Scenario] = "Budget"
+)
+
+YTD Var =
+[YTD Actual] - [YTD Budget]
+
+Annual Forecast =
+CALCULATE (
+    [KPI Amount],
+    'KPI''s'[TimeView] = "Annual",
+    'KPI''s'[Scenario] = "Forecast"
+)
+
+Annual Budget =
+CALCULATE (
+    [KPI Amount],
+    'KPI''s'[TimeView] = "Annual",
+    'KPI''s'[Scenario] = "Budget"
+)
+
+Annual Var =
+[Annual Forecast] - [Annual Budget]
+
+NI YTD Actual =
+CALCULATE ( [YTD Actual], 'KPI''s'[Metric] = "Net Income" )
+
+NI YTD Budget =
+CALCULATE ( [YTD Budget], 'KPI''s'[Metric] = "Net Income" )
+
+NI Forecast =
+CALCULATE ( [Annual Forecast], 'KPI''s'[Metric] = "Net Income" )
+
+NI Budget =
+CALCULATE ( [Annual Budget], 'KPI''s'[Metric] = "Net Income" )
+
+NOI YTD Actual =
+CALCULATE ( [YTD Actual], 'KPI''s'[Metric] = "NOI" )
+
+MTM Assets YTD =
+CALCULATE ( [YTD Actual], 'KPI''s'[Metric] = "MTM Assets" )
+
+MTM Debt YTD =
+CALCULATE ( [YTD Actual], 'KPI''s'[Metric] = "MTM Debt" )
+
+// ----- Performance return (instructions 3–5) -----
+
+Performance Return Forecast =
+DIVIDE ( [NI Forecast], [Equity Forecast] )
+
+Performance Return Budget =
+DIVIDE ( [NI Budget], [Equity OP] )
+
+Performance Return Var pp =
+[Performance Return Forecast] - [Performance Return Budget]
+
+Performance Return YTD =
+DIVIDE ( [NI YTD Actual], CALCULATE ( [Equity], 'BS by Region'[Scenario] = "YTD Actual" ) )
+
+// ----- Equity bridge (instruction 10). No relationship. -----
+
+Bridge Amount =
+CALCULATE (
+    SUM ( 'Equity Bridge'[Bridge] ),
+    TREATAS ( VALUES ( Hierarchy[Region] ), 'Equity Bridge'[Region] )
+)
+
+// ----- Drillthrough title -----
+
+Asset Title =
+SELECTEDVALUE ( Hierarchy[Asset ID], "All assets" )

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kpi_amount",
+    "description": "One income-statement amount for an asset, metric, and view.",
+    "examples": [
+      "What is Asset E annual forecast Net Income?"
+    ]
+  },
+  {
+    "id": "kpi_variance",
+    "description": "Actual or forecast minus budget for one asset and metric.",
+    "examples": [
+      "What is the annual forecast Net Income variance versus budget for Asset E?"
+    ]
+  },
+  {
+    "id": "portfolio_return",
+    "description": "Forecast return, budget return, and the gap for the selected assets or the whole portfolio.",
+    "examples": [
+      "What is the portfolio forecast return versus budget?"
+    ]
+  },
+  {
+    "id": "asset_return",
+    "description": "Forecast and budget performance return for one asset.",
+    "examples": [
+      "What is the forecast return for Asset F?"
+    ]
+  },
+  {
+    "id": "watchlist",
+    "description": "Assets whose net income is behind budget on both YTD and the annual forecast.",
+    "examples": [
+      "Which assets are behind on both YTD and the annual forecast?"
+    ]
+  },
+  {
+    "id": "largest_miss",
+    "description": "Income-statement line with the most negative annual dollar variance.",
+    "examples": [
+      "What is the largest annual forecast versus budget gap?"
+    ]
+  },
+  {
+    "id": "statement_total",
+    "description": "Income-statement total. Dollar columns sum every line, including net income. Variance percent is (amount - budget) / budget, or 0 when the budget is 0.",
+    "examples": [
+      "What is the income statement total?"
+    ]
+  },
+  {
+    "id": "equity_total",
+    "description": "Opening and total equity for one scenario.",
+    "examples": [
+      "What is December 2019 total equity?"
+    ]
+  },
+  {
+    "id": "equity_category",
+    "description": "One equity-bridge category for a region and scenario.",
+    "examples": [
+      "What is December 2019 Capex/Leasing for North America?"
+    ]
+  },
+  {
+    "id": "aum",
+    "description": "Equity plus debt plus third-party capital by scenario.",
+    "examples": [
+      "What is assets under management by scenario?"
+    ]
+  }
+]

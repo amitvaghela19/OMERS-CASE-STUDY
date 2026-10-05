@@ -1,0 +1,2576 @@
+[
+  {
+    "id": "eq-0001",
+    "question": "What is January 2019 Opening for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0002",
+    "question": "How much did Opening move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0003",
+    "question": "What is January 2019 Acquisitions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0004",
+    "question": "How much did Acquisitions move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0005",
+    "question": "What is January 2019 Dispositions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0006",
+    "question": "How much did Dispositions move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0007",
+    "question": "What is January 2019 Development for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0008",
+    "question": "How much did Development move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0009",
+    "question": "What is January 2019 Capex/Leasing for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0010",
+    "question": "How much did Capex/Leasing move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0011",
+    "question": "What is January 2019 Future Taxes for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0012",
+    "question": "How much did Future Taxes move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0013",
+    "question": "What is January 2019 Hedges for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0014",
+    "question": "How much did Hedges move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0015",
+    "question": "What is January 2019 Asset MTM for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0016",
+    "question": "How much did Asset MTM move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0017",
+    "question": "What is January 2019 Debt MTM for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0018",
+    "question": "How much did Debt MTM move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0019",
+    "question": "What is January 2019 Mortgages for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0020",
+    "question": "How much did Mortgages move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0021",
+    "question": "What is January 2019 Working Capital for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0022",
+    "question": "How much did Working Capital move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0023",
+    "question": "What is January 2019 Other Capital Contributions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0024",
+    "question": "How much did Other Capital Contributions move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0025",
+    "question": "What is January 2019 Miscellaneous for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0026",
+    "question": "How much did Miscellaneous move equity in North America in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "North America",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0027",
+    "question": "What is January 2019 Opening for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0028",
+    "question": "How much did Opening move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0029",
+    "question": "What is January 2019 Acquisitions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0030",
+    "question": "How much did Acquisitions move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0031",
+    "question": "What is January 2019 Dispositions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0032",
+    "question": "How much did Dispositions move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0033",
+    "question": "What is January 2019 Development for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0034",
+    "question": "How much did Development move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0035",
+    "question": "What is January 2019 Capex/Leasing for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0036",
+    "question": "How much did Capex/Leasing move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0037",
+    "question": "What is January 2019 Future Taxes for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0038",
+    "question": "How much did Future Taxes move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0039",
+    "question": "What is January 2019 Hedges for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0040",
+    "question": "How much did Hedges move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0041",
+    "question": "What is January 2019 Asset MTM for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0042",
+    "question": "How much did Asset MTM move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0043",
+    "question": "What is January 2019 Debt MTM for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0044",
+    "question": "How much did Debt MTM move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0045",
+    "question": "What is January 2019 Mortgages for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0046",
+    "question": "How much did Mortgages move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0047",
+    "question": "What is January 2019 Working Capital for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0048",
+    "question": "How much did Working Capital move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0049",
+    "question": "What is January 2019 Other Capital Contributions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0050",
+    "question": "How much did Other Capital Contributions move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0051",
+    "question": "What is January 2019 Miscellaneous for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0052",
+    "question": "How much did Miscellaneous move equity in Europe in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Europe",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0053",
+    "question": "What is January 2019 Opening for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0054",
+    "question": "How much did Opening move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0055",
+    "question": "What is January 2019 Acquisitions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0056",
+    "question": "How much did Acquisitions move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0057",
+    "question": "What is January 2019 Dispositions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0058",
+    "question": "How much did Dispositions move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0059",
+    "question": "What is January 2019 Development for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0060",
+    "question": "How much did Development move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0061",
+    "question": "What is January 2019 Capex/Leasing for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0062",
+    "question": "How much did Capex/Leasing move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0063",
+    "question": "What is January 2019 Future Taxes for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0064",
+    "question": "How much did Future Taxes move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0065",
+    "question": "What is January 2019 Hedges for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0066",
+    "question": "How much did Hedges move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0067",
+    "question": "What is January 2019 Asset MTM for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0068",
+    "question": "How much did Asset MTM move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0069",
+    "question": "What is January 2019 Debt MTM for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0070",
+    "question": "How much did Debt MTM move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0071",
+    "question": "What is January 2019 Mortgages for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0072",
+    "question": "How much did Mortgages move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0073",
+    "question": "What is January 2019 Working Capital for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0074",
+    "question": "How much did Working Capital move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0075",
+    "question": "What is January 2019 Other Capital Contributions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0076",
+    "question": "How much did Other Capital Contributions move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0077",
+    "question": "What is January 2019 Miscellaneous for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0078",
+    "question": "How much did Miscellaneous move equity in Asia Pac in January 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "January 2019",
+      "region": "Asia Pac",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0079",
+    "question": "What is June 2019 Opening for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0080",
+    "question": "How much did Opening move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0081",
+    "question": "What is June 2019 Acquisitions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0082",
+    "question": "How much did Acquisitions move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0083",
+    "question": "What is June 2019 Dispositions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0084",
+    "question": "How much did Dispositions move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0085",
+    "question": "What is June 2019 Development for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0086",
+    "question": "How much did Development move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0087",
+    "question": "What is June 2019 Capex/Leasing for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0088",
+    "question": "How much did Capex/Leasing move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0089",
+    "question": "What is June 2019 Future Taxes for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0090",
+    "question": "How much did Future Taxes move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0091",
+    "question": "What is June 2019 Hedges for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0092",
+    "question": "How much did Hedges move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0093",
+    "question": "What is June 2019 Asset MTM for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0094",
+    "question": "How much did Asset MTM move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0095",
+    "question": "What is June 2019 Debt MTM for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0096",
+    "question": "How much did Debt MTM move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0097",
+    "question": "What is June 2019 Mortgages for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0098",
+    "question": "How much did Mortgages move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0099",
+    "question": "What is June 2019 Working Capital for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0100",
+    "question": "How much did Working Capital move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0101",
+    "question": "What is June 2019 Other Capital Contributions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0102",
+    "question": "How much did Other Capital Contributions move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0103",
+    "question": "What is June 2019 Miscellaneous for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0104",
+    "question": "How much did Miscellaneous move equity in North America in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "North America",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0105",
+    "question": "What is June 2019 Opening for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0106",
+    "question": "How much did Opening move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0107",
+    "question": "What is June 2019 Acquisitions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0108",
+    "question": "How much did Acquisitions move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0109",
+    "question": "What is June 2019 Dispositions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0110",
+    "question": "How much did Dispositions move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0111",
+    "question": "What is June 2019 Development for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0112",
+    "question": "How much did Development move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0113",
+    "question": "What is June 2019 Capex/Leasing for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0114",
+    "question": "How much did Capex/Leasing move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0115",
+    "question": "What is June 2019 Future Taxes for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0116",
+    "question": "How much did Future Taxes move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0117",
+    "question": "What is June 2019 Hedges for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0118",
+    "question": "How much did Hedges move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0119",
+    "question": "What is June 2019 Asset MTM for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0120",
+    "question": "How much did Asset MTM move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0121",
+    "question": "What is June 2019 Debt MTM for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0122",
+    "question": "How much did Debt MTM move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0123",
+    "question": "What is June 2019 Mortgages for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0124",
+    "question": "How much did Mortgages move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0125",
+    "question": "What is June 2019 Working Capital for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0126",
+    "question": "How much did Working Capital move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0127",
+    "question": "What is June 2019 Other Capital Contributions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0128",
+    "question": "How much did Other Capital Contributions move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0129",
+    "question": "What is June 2019 Miscellaneous for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0130",
+    "question": "How much did Miscellaneous move equity in Europe in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Europe",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0131",
+    "question": "What is June 2019 Opening for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0132",
+    "question": "How much did Opening move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0133",
+    "question": "What is June 2019 Acquisitions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0134",
+    "question": "How much did Acquisitions move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0135",
+    "question": "What is June 2019 Dispositions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0136",
+    "question": "How much did Dispositions move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0137",
+    "question": "What is June 2019 Development for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0138",
+    "question": "How much did Development move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0139",
+    "question": "What is June 2019 Capex/Leasing for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0140",
+    "question": "How much did Capex/Leasing move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0141",
+    "question": "What is June 2019 Future Taxes for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0142",
+    "question": "How much did Future Taxes move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0143",
+    "question": "What is June 2019 Hedges for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0144",
+    "question": "How much did Hedges move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0145",
+    "question": "What is June 2019 Asset MTM for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0146",
+    "question": "How much did Asset MTM move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0147",
+    "question": "What is June 2019 Debt MTM for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0148",
+    "question": "How much did Debt MTM move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0149",
+    "question": "What is June 2019 Mortgages for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0150",
+    "question": "How much did Mortgages move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0151",
+    "question": "What is June 2019 Working Capital for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0152",
+    "question": "How much did Working Capital move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0153",
+    "question": "What is June 2019 Other Capital Contributions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0154",
+    "question": "How much did Other Capital Contributions move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0155",
+    "question": "What is June 2019 Miscellaneous for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0156",
+    "question": "How much did Miscellaneous move equity in Asia Pac in June 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "June 2019",
+      "region": "Asia Pac",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0157",
+    "question": "What is December 2019 Opening for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0158",
+    "question": "How much did Opening move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0159",
+    "question": "What is December 2019 Acquisitions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0160",
+    "question": "How much did Acquisitions move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0161",
+    "question": "What is December 2019 Dispositions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0162",
+    "question": "How much did Dispositions move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0163",
+    "question": "What is December 2019 Development for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0164",
+    "question": "How much did Development move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0165",
+    "question": "What is December 2019 Capex/Leasing for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0166",
+    "question": "How much did Capex/Leasing move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0167",
+    "question": "What is December 2019 Future Taxes for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0168",
+    "question": "How much did Future Taxes move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0169",
+    "question": "What is December 2019 Hedges for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0170",
+    "question": "How much did Hedges move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0171",
+    "question": "What is December 2019 Asset MTM for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0172",
+    "question": "How much did Asset MTM move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0173",
+    "question": "What is December 2019 Debt MTM for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0174",
+    "question": "How much did Debt MTM move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0175",
+    "question": "What is December 2019 Mortgages for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0176",
+    "question": "How much did Mortgages move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0177",
+    "question": "What is December 2019 Working Capital for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0178",
+    "question": "How much did Working Capital move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0179",
+    "question": "What is December 2019 Other Capital Contributions for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0180",
+    "question": "How much did Other Capital Contributions move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0181",
+    "question": "What is December 2019 Miscellaneous for North America?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0182",
+    "question": "How much did Miscellaneous move equity in North America in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "North America",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0183",
+    "question": "What is December 2019 Opening for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0184",
+    "question": "How much did Opening move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0185",
+    "question": "What is December 2019 Acquisitions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0186",
+    "question": "How much did Acquisitions move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0187",
+    "question": "What is December 2019 Dispositions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0188",
+    "question": "How much did Dispositions move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0189",
+    "question": "What is December 2019 Development for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0190",
+    "question": "How much did Development move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0191",
+    "question": "What is December 2019 Capex/Leasing for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0192",
+    "question": "How much did Capex/Leasing move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0193",
+    "question": "What is December 2019 Future Taxes for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0194",
+    "question": "How much did Future Taxes move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0195",
+    "question": "What is December 2019 Hedges for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0196",
+    "question": "How much did Hedges move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0197",
+    "question": "What is December 2019 Asset MTM for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0198",
+    "question": "How much did Asset MTM move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0199",
+    "question": "What is December 2019 Debt MTM for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0200",
+    "question": "How much did Debt MTM move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0201",
+    "question": "What is December 2019 Mortgages for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0202",
+    "question": "How much did Mortgages move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0203",
+    "question": "What is December 2019 Working Capital for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0204",
+    "question": "How much did Working Capital move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0205",
+    "question": "What is December 2019 Other Capital Contributions for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0206",
+    "question": "How much did Other Capital Contributions move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0207",
+    "question": "What is December 2019 Miscellaneous for Europe?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0208",
+    "question": "How much did Miscellaneous move equity in Europe in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Europe",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0209",
+    "question": "What is December 2019 Opening for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0210",
+    "question": "How much did Opening move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Opening"
+    }
+  },
+  {
+    "id": "eq-0211",
+    "question": "What is December 2019 Acquisitions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0212",
+    "question": "How much did Acquisitions move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Acquisitions"
+    }
+  },
+  {
+    "id": "eq-0213",
+    "question": "What is December 2019 Dispositions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0214",
+    "question": "How much did Dispositions move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Dispositions"
+    }
+  },
+  {
+    "id": "eq-0215",
+    "question": "What is December 2019 Development for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0216",
+    "question": "How much did Development move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Development"
+    }
+  },
+  {
+    "id": "eq-0217",
+    "question": "What is December 2019 Capex/Leasing for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0218",
+    "question": "How much did Capex/Leasing move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Capex/Leasing"
+    }
+  },
+  {
+    "id": "eq-0219",
+    "question": "What is December 2019 Future Taxes for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0220",
+    "question": "How much did Future Taxes move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Future Taxes"
+    }
+  },
+  {
+    "id": "eq-0221",
+    "question": "What is December 2019 Hedges for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0222",
+    "question": "How much did Hedges move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Hedges"
+    }
+  },
+  {
+    "id": "eq-0223",
+    "question": "What is December 2019 Asset MTM for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0224",
+    "question": "How much did Asset MTM move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Asset MTM"
+    }
+  },
+  {
+    "id": "eq-0225",
+    "question": "What is December 2019 Debt MTM for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0226",
+    "question": "How much did Debt MTM move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Debt MTM"
+    }
+  },
+  {
+    "id": "eq-0227",
+    "question": "What is December 2019 Mortgages for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0228",
+    "question": "How much did Mortgages move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Mortgages"
+    }
+  },
+  {
+    "id": "eq-0229",
+    "question": "What is December 2019 Working Capital for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0230",
+    "question": "How much did Working Capital move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Working Capital"
+    }
+  },
+  {
+    "id": "eq-0231",
+    "question": "What is December 2019 Other Capital Contributions for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0232",
+    "question": "How much did Other Capital Contributions move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Other Capital Contributions"
+    }
+  },
+  {
+    "id": "eq-0233",
+    "question": "What is December 2019 Miscellaneous for Asia Pac?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Miscellaneous"
+    }
+  },
+  {
+    "id": "eq-0234",
+    "question": "How much did Miscellaneous move equity in Asia Pac in December 2019?",
+    "paraphrases": [],
+    "sql_id": "equity_category",
+    "params": {
+      "scenario": "December 2019",
+      "region": "Asia Pac",
+      "category": "Miscellaneous"
+    }
+  }
+]
